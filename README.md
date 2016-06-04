@@ -1,2 +1,5 @@
-# yii2test
-yii2学习
+# yii2学习
+一、yii2基础部分。
+
+
+
